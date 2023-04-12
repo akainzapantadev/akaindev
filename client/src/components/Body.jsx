@@ -11,9 +11,7 @@ const Body = () => (
     <h3 id="sub_name" className="display-6">
       Full Stack Developer
     </h3>
-    <p className="w-50 text-muted">
-      I use MERN stack and I make web apps for fun.
-    </p>
+    <p className="w-50 text-muted">Portfolio under construction</p>
     <a target="_blank" href={resume}>
       <button className="text-muted btn btn-outline-dark mt-3">
         Download Resume
