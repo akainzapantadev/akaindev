@@ -1,5 +1,5 @@
 import styles from "./style";
-import { Footer, Body, HeaderImage } from "./components";
+import { Footer, Body } from "./components";
 
 const App = () => (
   <div className="bg-img w-full overflow-hidden">
