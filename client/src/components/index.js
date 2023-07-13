@@ -5,7 +5,7 @@ import Body from "./Body";
 import githubLogo from "../assets/images/github.png";
 import linkedinLogo from "../assets/images/linkedin.png";
 import mernLogo from "../assets/images/mern.png";
-import arlogo from "../assets/images/arltest.png";
-import resume from "../assets/others/ZAPANTA.pdf";
+import arlogo from "../assets/images/arlgrad.png";
+import resume from "../assets/others/zapantaCV2023.pdf";
 
 export { Footer, Body, resume, githubLogo, arlogo, linkedinLogo, mernLogo };

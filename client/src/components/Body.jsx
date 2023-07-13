@@ -9,28 +9,14 @@ const Body = () => (
       AKAIN E<span id="name_2">ARL</span>
     </span>
     <h3 id="sub_name" className="display-6">
-      Full Stack Developer
+      Web Developer
     </h3>
-    <p className="w-50 text-muted">Portfolio under construction</p>
+    <p className="w-50 text-muted">Portfolio soon</p>
     <a target="_blank" href={resume}>
       <button className="text-muted btn btn-outline-dark mt-3">
         Download Resume
       </button>
     </a>
-    {/* <div className="p-5">
-      <div class="bg-dark max-w-sm rounded overflow-hidden shadow-lg">
-        <div className="opac-80">
-          <div class="px-6 py-4">
-            <div class="font-bold text-xl mb-2 text-white">
-              The Coldest Sunset
-            </div>
-            <p class="text-white text-base">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-            </p>
-          </div>
-        </div>
-      </div>
-    </div> */}
   </div>
 );
 
