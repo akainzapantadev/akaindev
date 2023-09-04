@@ -6,7 +6,7 @@ const Footer = () => (
   <center>
     <div className="row">
       <div className="col-md-6 me-md-auto">
-        <div className="row justify-content-center pt-5 mt-5">
+        <div className="row justify-content-center pt-5">
           <span className="col spanLink">
             <a href="https://github.com/akainzapantadev" target="_blank">
               <img className="logo" src={githubLogo} />
@@ -23,7 +23,7 @@ const Footer = () => (
         </div>
         <span className="text-white">akainzapanta@gmail.com</span>
       </div>
-      <div className="col-md-6 p-5 mt-5">
+      <div className="col-md-6 p-5">
         <img src={mernLogo} />
       </div>
     </div>
