@@ -150,6 +150,7 @@
 }
 
 #name_1 {
+  font-size: 3em;
   font-style: normal;
   font-weight: 700;
   color: #ffffff;
@@ -160,10 +161,15 @@
   color: #ff5349;
 }
 
+.mainBGColor {
+  background-color: #ff5349;
+  color: "#fff" !important;
+}
+
 #sub_name {
-  font-style: normal;
-  font-weight: 700;
-  color: #ffffff;
+  font-size: 1.5em;
+  font-style: italic;
+  color: rgb(189, 189, 189);
 }
 
 #landing-half-img {
